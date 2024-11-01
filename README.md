@@ -99,10 +99,6 @@ Output: Setiap angka acak ditampilkan dengan `format data ke: {nomor} => {angka}
 # LATIHAN 2.latihan2.py
 # Menghitung Laba Usaha selama 8 Bulan
 
-![Cuplikan layar 2024-11-01 193333](https://github.com/user-attachments/assets/447c6794-4c71-4078-b7a6-b9f7bb4c0596)
-
-
-
 ## Deskripsi 
 
 Program ini melakukan perhitungan laba bulanan dengan aturan sebagai berikut:
@@ -184,7 +180,7 @@ Total laba adalah: 19000000.0
 ````
 ## Berikut adalah hasin screenshot vsc
 
-
+![Cuplikan layar 2024-11-01 193333](https://github.com/user-attachments/assets/52883f6f-1c04-4b4d-95d4-4992403f6416)
 
 # LATIHAN 3.latihan3.py
 # Simulasi Mesin ATM Sederhana

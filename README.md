@@ -7,8 +7,6 @@
 # LATIHAN 1:latihan1.py
 # Program Angka Acak dengan Nilai Kurang dari 0.5
 
-![Cuplikan layar 2024-11-01 193225](https://github.com/user-attachments/assets/e25b37a6-2c5d-47fc-9241-113d0ca49349)
-
 
 ## Deskripsi
 Program ini menghasilkan sejumlah N angka acak yang nilainya selalu kurang dari 0.5. Setiap angka acak ditampilkan secara berurutan dengan nomor urutannya. Program ini menggunakan kombinasi perulangan for dan while untuk memastikan bahwa setiap angka yang dihasilkan memenuhi kriteria yang ditentukan.
@@ -89,7 +87,7 @@ Selesai
 
 ## Berikut adalah hasin screenshot vsc
 
-
+![Cuplikan layar 2024-11-01 193225](https://github.com/user-attachments/assets/2f9202f2-8ba5-4b07-89d4-cec56ce68332)
 
 ## Penjelasan Kode
 Import Modul Random: from random import random untuk mengimpor fungsi random() yang akan digunakan untuk menghasilkan angka acak.

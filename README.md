@@ -254,7 +254,7 @@ Saldo saat ini: Rp 500000
 Pilih menu (1/2): 2
 Terima kasih telah menggunakan ATM!
 ```
-- Pada contoh ini:
+ Pada contoh ini:
    Pengguna memilih opsi "Tarik Uang" dan memasukkan jumlah penarikan Rp 500.000. Program berhasil melakukan penarikan dan mengurangi saldo.
    Pengguna kemudian memilih opsi "Keluar" untuk mengakhiri program.
 
